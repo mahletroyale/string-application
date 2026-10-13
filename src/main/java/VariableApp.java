@@ -10,7 +10,7 @@ public class VariableApp {
         String niceMessage;
 
         int numDaysOfWeek = 7;
-        float priceCoffee = 4.50f;
+        float priceCoffee = 4.99f;
         String favLetter = "M";
         boolean isRaining = false;
 
